@@ -174,6 +174,6 @@ Coming soon!
 ## Contributors
 
 | Gilhan Yong | Dongjun Bae | 
-| :----: | :----: | :----: |:----: | :----: | :----: |
-| [@Baedonguri](https://github.com/Baedonguri) | [@Yong-ga-ri](https://github.com/Yong-ga-ri) |
-|Frontend/Backend/Crawling/DevOps |Backend/Crawling |
+| :----: | :----: |
+| [@Yong-ga-ri](https://github.com/Yong-ga-ri) | [@Baedonguri](https://github.com/Baedonguri) |
+|Frontend/Backend/DevOps/Crawling |Backend/Crawling |
