@@ -33,7 +33,7 @@ Since this website includes functions such as signup and login, <b>PostgreSQL</b
 
 ### 1. Cloning
 ```
-$ git clone https://github.com/CrayonTeamJ/docker.git
+$ git clone https://github.com/Music-chart-customizing/Main_repository.git
 ```
 - Provide necessary information in 'settings/dev/env.dev' or 'settings/prod/env.prod'
 
