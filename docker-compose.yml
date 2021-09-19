@@ -91,7 +91,7 @@ services:
       FLASK_APP: ./app.py
     ports:
       - 5050:5050
-
+    tty: true
   ########################################################################
   # GUNICON이 들어가야 함 in prod
   ########################################################################
@@ -114,6 +114,7 @@ services:
     environment:
       - CI=true
       - CHOKIDAR_USEPOLLING=true
+    tty: true
 
   rabbit:
     hostname: rabbit
@@ -142,7 +143,6 @@ services:
     volumes:
       - ./backend:/usr/src/app
 
-    
   #   redis:
   #     image: "redis:alpine"
   #     networks:
@@ -182,7 +182,6 @@ services:
     networks:
       # - elk
       - app-tier
-
 
 networks:
   app-tier:
