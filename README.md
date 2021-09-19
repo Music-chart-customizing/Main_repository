@@ -1,8 +1,9 @@
-# Seaflag (Team Crayon)
+# Music-Chart-Customizing (Personal project)
 
 ## Introduction
 
-<b>Seaflag</b> is a search engine that helps users to find a specific person or word in a video. The demo version provides multiple features such as pointing out the moments that contain certain keywords in English/Korean and identifying the appearance of seven BTS members (RM, Jin, Suga, J-Hope, Jimin, V, and Jungkook) within the input video.
+<b>Music-Chart-Customizing</b>는 현재 다양한 음원 사이트에 있는 음원 차트를 하나의 웹 페이지로서 사용자에게 공개하여 여러가지 음악 플레이리스트를 제공합니다. 
+사용자는 다양한 음원 사이트에 있는 음악 리스트를 선택할 수 있습니다.
 
 
 
