@@ -173,7 +173,7 @@ Coming soon!
 
 ## Contributors
 
-| Yujeong Lee | Minwoong Kim | Somi Kim | Suyeon Maeng | Hayoung Lim | Gilhan Yong | 
+| Gilhan Yong | Dongjun Bae | 
 | :----: | :----: | :----: |:----: | :----: | :----: |
-| [@IAGREEBUT](https://github.com/IAGREEBUT) | [@POL6463](https://github.com/POL6463) | [@rlathal009](https://github.com/rlathal009) | [@maengsuyeon](https://github.com/maengsuyeon) | [@hayoung1998](https://github.com/hayoung1998) | [@Yong-ga-ri](https://github.com/Yong-ga-ri) |
-|Frontend |Backend |AI/Backend |AI/Backend | AI/Backend |DevOps |
+| [@Baedonguri](https://github.com/Baedonguri) | [@Yong-ga-ri](https://github.com/Yong-ga-ri) |
+|Frontend/Backend/Crawling/DevOps |Backend/Crawling |
